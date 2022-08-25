@@ -17,7 +17,7 @@ div {
     margin-bottom: 0px;
 }
 
-.header {
+.header2 {
     padding: 0px;
     margin: 0px;
     left: 0;
@@ -28,7 +28,7 @@ div {
     z-index:99;
 }
 
-.fakeheader {
+header {
     padding: 0px;
     margin: 0px;
     left: 0;
